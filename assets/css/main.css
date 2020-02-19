@@ -918,6 +918,10 @@ input, select, textarea {
 				line-height: 2.25rem;
 				text-align: center;
 				width: 2.25rem;
+<<<<<<< HEAD
+=======
+				display: none;
+>>>>>>> 1875168592d68e10ad5fb129b07b20db3e2ba068
 			}
 
 				ul.icons li a:hover {
@@ -1158,7 +1162,11 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+<<<<<<< HEAD
 			background-image: url("../../images/ct-img.jpg");
+=======
+			background-image: url("../../images/bg.jpg");
+>>>>>>> 1875168592d68e10ad5fb129b07b20db3e2ba068
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
